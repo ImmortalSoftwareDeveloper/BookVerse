@@ -21,5 +21,3 @@ Built with **HTML, CSS, and JavaScript**, it features interactive filters, dark 
 HTML5 — semantic structure  
 CSS3 — Flexbox, Grid, responsive design  
 JavaScript (Vanilla)— interactivity, filters, and theme management  
-
-## 📂 Project Structure
